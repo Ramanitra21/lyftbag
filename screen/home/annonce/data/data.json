@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "id": 201,
+        "name": "Sophie Andrianarivo",
+        "profilePhoto": "https://media.istockphoto.com/id/1485052530/photo/portrait-fashion-and-braids-with-a-black-woman-on-an-orange-background-outdoor-for-style-or.webp?s=2048x2048&w=is&k=20&c=0bfvl3z4EhGCLpO6FLSyv_y7iMwT9doqEOHsE-lTI0k="
+      },
+      "baggageDetails": {
+        "weightAvailable": 10,
+        "pricePerKg": 8,
+        "departureCity": "Antananarivo",
+        "arrivalCity": "Paris",
+        "departureDate": "2024-12-10"
+      },
+      "productPhoto": "https://media.istockphoto.com/id/1952253409/photo/skyline-paris.jpg?s=1024x1024&w=is&k=20&c=_5MSYo7FDCTBhl0wOqWD18utDMc-i_MmErWZDxxepVo="
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 202,
+        "name": "Luc Martin",
+        "profilePhoto": "https://plus.unsplash.com/premium_photo-1710911198710-3097c518f0e1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "baggageDetails": {
+        "weightAvailable": 15,
+        "pricePerKg": 10,
+        "departureCity": "Paris",
+        "arrivalCity": "Montréal",
+        "departureDate": "2024-12-15"
+      },
+      "productPhoto": "https://static.vecteezy.com/ti/vecteur-libre/p1/1241667-modele-de-carte-d-embarquement-gratuit-vectoriel.jpg"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 203,
+        "name": "Emily Johnson",
+        "profilePhoto": "https://cdn.pixabay.com/photo/2016/11/22/21/42/woman-1850703_960_720.jpg"
+      },
+      "baggageDetails": {
+        "weightAvailable": 20,
+        "pricePerKg": 12,
+        "departureCity": "Toronto",
+        "arrivalCity": "Berlin",
+        "departureDate": "2024-12-20"
+      },
+      "productPhoto": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/516000/516652-nathan-phillips-square.jpg?impolicy=fcrop&w=1040&h=580&q=mediumHigh"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 204,
+        "name": "James Carter",
+        "profilePhoto": "https://i.pinimg.com/736x/a7/d0/17/a7d0179c6dffb4ee657cde72b04f05d2.jpg"
+      },
+      "baggageDetails": {
+        "weightAvailable": 25,
+        "pricePerKg": 9,
+        "departureCity": "New York",
+        "arrivalCity": "Antananarivo",
+        "departureDate": "2024-12-25"
+      },
+      "productPhoto": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTpM3feh2oieZT2PC9FgYRNa2qDKboJp3ddKKCv4qpm8qRZwUdSEuhMOHMC1wWsAebndUdcCx8UPhNm2-oKth3jEgApb4FzP8s09LL4BA"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 205,
+        "name": "Gregan Müller",
+        "profilePhoto": "https://plus.unsplash.com/premium_photo-1689539137236-b68e436248de?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      "baggageDetails": {
+        "weightAvailable": 12,
+        "pricePerKg": 11,
+        "departureCity": "Berlin",
+        "arrivalCity": "Toronto",
+        "departureDate": "2024-12-30"
+      },
+      "productPhoto": "https://images.unsplash.com/photo-1696733585001-868eb49cbfa6?q=80&w=1999&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
